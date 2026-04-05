@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Siddhant
 
 🎓 IT Student @ GLBITM  />
-💻 C++ | C | Python | DSA /> 
+
 🚀 Problem Solver />
 
 
